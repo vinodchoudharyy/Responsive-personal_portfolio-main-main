@@ -2,7 +2,7 @@
 This repository contains the code for my personal portfolio website built using HTML, CSS, and JavaScript. The portfolio showcases my skills, projects, and accomplishments, providing a glimpse into my professional journey.
 
 # Live Demo
-https://vinodfolioio.vercel.app/
+https://responsive-personal-portfolio-main.vercel.app/
 
 
 # Prerequisites
@@ -15,11 +15,11 @@ To run this project locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone [https://github.com/shreya6360/Responsive-personal_portfolio.git ](https://vinodfolioio.vercel.app/)
+sudo git clone(https://responsive-personal-portfolio-main.vercel.app/)
 
 Windows:
 
-git clone[ https://github.com/shreya6360/Responsive-personal_portfolio.git ](https://vinodfolioio.vercel.app/)
+git clone(https://responsive-personal-portfolio-main.vercel.app/)
 
 # License
 This project is free to use and does not contains any license.
